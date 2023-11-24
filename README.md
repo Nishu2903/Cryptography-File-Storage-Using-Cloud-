@@ -85,8 +85,8 @@ Amazon S3 bucket is a cloud-based storage service offered by Amazon Web Services
 
 ![image](https://github.com/Nishu2903/Cryptography-File-Storage-Using-Cloud-/assets/117971452/3bbdc148-4a98-4afb-9175-0977703d4f20)
 
-![File Downloaded Implementation](https://github.com/Nishu2903/Cryptography-File-Storage-Using-
-Cloud-/assets/117971452/e8d711f9-d7f9-4f71-ba50-8fa92adf65ee)
+![image](https://github.com/Nishu2903/Cryptography-File-Storage-Using-Cloud-/assets/117971452/108e1400-9b84-45db-8d5a-3032610f7992)
+
 
 
 
